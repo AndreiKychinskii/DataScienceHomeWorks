@@ -1,0 +1,34 @@
+WARNING: Logging before flag parsing goes to stderr.
+W1002 14:18:22.013381 20776 deprecation.py:506] From C:\Users\A\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow\python\ops\init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+conv2d
+max_pooling2d
+dropout
+flatten
+dense
+dense_1
+dense_2
+Train on 15609 samples, validate on 3903 samples
+Epoch 1/10
+15609/15609 - 18s - loss: 0.6531 - acc: 0.7621 - val_loss: 0.6960 - val_acc: 0.7302
+Epoch 2/10
+15609/15609 - 16s - loss: 0.4832 - acc: 0.8175 - val_loss: 0.7777 - val_acc: 0.7084
+Epoch 3/10
+15609/15609 - 18s - loss: 0.4175 - acc: 0.8421 - val_loss: 0.7907 - val_acc: 0.7361
+Epoch 4/10
+15609/15609 - 18s - loss: 0.3464 - acc: 0.8683 - val_loss: 0.7908 - val_acc: 0.7341
+Epoch 5/10
+15609/15609 - 17s - loss: 0.3042 - acc: 0.8864 - val_loss: 0.8778 - val_acc: 0.7310
+Epoch 6/10
+15609/15609 - 17s - loss: 0.2681 - acc: 0.9006 - val_loss: 0.6409 - val_acc: 0.7986
+Epoch 7/10
+15609/15609 - 17s - loss: 0.2388 - acc: 0.9089 - val_loss: 0.7322 - val_acc: 0.7663
+Epoch 8/10
+15609/15609 - 16s - loss: 0.2379 - acc: 0.9143 - val_loss: 0.8845 - val_acc: 0.7533
+Epoch 9/10
+15609/15609 - 17s - loss: 0.2056 - acc: 0.9252 - val_loss: 0.9864 - val_acc: 0.7397
+Epoch 10/10
+15609/15609 - 17s - loss: 0.2017 - acc: 0.9284 - val_loss: 0.6969 - val_acc: 0.7774
+4891/4891 - 1s - loss: 0.4136 - acc: 0.8632
+Baseline Error: 13.68%

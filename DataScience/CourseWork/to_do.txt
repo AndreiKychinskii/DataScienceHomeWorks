@@ -1,0 +1,12 @@
+0. Cross-validation (statistics) for models.
+
+https://en.wikipedia.org/wiki/Cross-validation_(statistics)
+https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.cv.html#lightgbm.cv
+
+1. Port NN into STM32 MCU.
+
+https://www.youtube.com/watch?v=grgNXdkmzzQ&list=PLnMKNibPkDnG9IC5Nl9vJg1CKMAO1kODW&index=3&t=0s
+
+2. Simple Machine Learning With JavaScript - Brain.js
+
+https://www.youtube.com/watch?v=RVMHhtTqUxc
